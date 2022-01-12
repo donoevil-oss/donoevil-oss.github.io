@@ -27,5 +27,6 @@ As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)
 
 * This is has been thrown together quickly - please help improve it!
 * Badges suitable for linking to this page will be added once its a bit more mature.
-* A good logo for this site would be much appreciated. :smile:.
+* A good logo for this site would be much appreciated.
 * [http://donoevil-oss.org](http://donoevil-oss.org) will link to this page once DNS has finished updating ...
+
