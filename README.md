@@ -22,3 +22,10 @@ As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)
 * To help improve this site please go to the repository [https://github.com/donoevil-oss/donoevil-oss.github.io/](https://github.com/donoevil-oss/donoevil-oss.github.io/) and submit a PR or join the [discussions](https://github.com/donoevil-oss/donoevil-oss.github.io/discussions/).
 * To add your name to the list of individuals who support this pledge submit a PR to update the [individual-supporters.md](https://github.com/donoevil-oss/donoevil-oss.github.io/blob/main/individual-supporters.md) file.
 * To add an organisation to the list of those which support this pledge please raise an issue with a suitable official contact email address.
+
+### Notes
+
+* This is has been thrown together quickly - please help improve it!
+* Badges suitable for linking to this page will be added once its a bit more mature.
+* A good logo for this site would be much appreciated. :smile:.
+* [http://donoevil-oss.org](http://donoevil-oss.org) will link to this page once DNS has finished updating ...
