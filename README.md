@@ -19,6 +19,6 @@ As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ### Contribute
 
-* To help improve this site please go to the repository https://github.com/donoevil-oss/donoevil-oss.github.io/
+* To help improve this site please go to the repository [https://github.com/donoevil-oss/donoevil-oss.github.io/](https://github.com/donoevil-oss/donoevil-oss.github.io/) and submit a PR or 
 * To add your name to the list of individuals who support this pledge submit a PR to update the [individual-supporters.md](https://github.com/donoevil-oss/donoevil-oss.github.io/blob/main/individual-supporters.md) file.
 * To add an organisation to the list of those which support this pledge please raise an issue with a suitable official contact email address.
