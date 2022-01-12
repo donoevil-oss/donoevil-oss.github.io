@@ -1,14 +1,12 @@
-# Do No Evil OSS Pledge
-
 As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software) developer, whenever I link to this site from a specific repository I am pledging that I:
 
-* Will NOT deliberately change that repository to do anything that could knowingly cause harm to its users
-* Will do my best to review any 3rd party contributions to this repository to ensure they do not appear to do any harm to its users
-* Will NOT hand over control of the repository to anyone unless I am sure that they have its best interests at heart
+* Will **NOT** deliberately change that repository to do anything that could knowingly cause harm to its users
+* Will do **my best** to review any 3rd party contributions to this repository to ensure they do not appear to do any harm to its users
+* Will **NOT** hand over control of the repository to anyone unless I am sure that they have its best interests at heart
 
 ### Caveats
 
-* This is not a legally binding document
+* This is **not** a legally binding document
 * This does not change or modify the License under which the repository is released
 * It does not give any assurances as to the support or development time I am able to give to the repository
 
@@ -20,5 +18,5 @@ As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)
 ### Contribute
 
 * To help improve this site please go to the repository https://github.com/donoevil-oss/donoevil-oss.github.io/
-* To add your name to the list of individuals who support this pledge submit a PR to update TBA
+* To add your name to the list of individuals who support this pledge submit a PR to update the [individual-supporters.md](https://github.com/donoevil-oss/donoevil-oss.github.io/blob/main/individual-supporters.md) file.
 * To add an organisation to the list of those which support this pledge please raise an issue with a suitable official contact email address.
