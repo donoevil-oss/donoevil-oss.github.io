@@ -3,8 +3,8 @@
 As an [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software) developer, whenever I link to this site from a specific repository I am pledging that I:
 
 * Will **NOT** deliberately change that repository to do anything that could knowingly cause harm to its users
-* Will do **my best** to review any 3rd party contributions that I choose to accept to this repository to ensure they do not appear to do any harm to its users
-* Will **NOT** hand over control of the repository to anyone unless I am sure that they have its best interests at heart
+* Will **NOT** deliberately accept 3rd party contributions that I know may cause harm to its users.
+* Will **NOT** deliberately hand over control of the repository to anyone I know intents harm to its users.
 
 ### Caveats
 
